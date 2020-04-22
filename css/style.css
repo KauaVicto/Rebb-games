@@ -60,7 +60,7 @@ canvas {
 
 #lista{
     padding: 30px;
-    min-height: 550px;
+    min-height: 528px;
     min-width: 1000px;
     border-radius: 20px;
     border: 5px solid gray;
@@ -85,4 +85,13 @@ canvas {
     text-align: center;
     max-width: 250px;
     font-family: cursive, serif;
+}
+
+/* FOOTER */
+
+footer{
+    color: white;
+    text-align: right;
+    padding: 5px;
+    font-family: serif;
 }
