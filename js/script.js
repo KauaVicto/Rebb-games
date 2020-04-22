@@ -459,11 +459,11 @@
         
         if(persoL.mvLeft || persoL.mvRight || persoL.mvUp || persoL.mvDown){
             persoL.countAnim++;
-            if(persoL.countAnim >= 48){
+            if(persoL.countAnim >= 16){
                 persoL.countAnim = 0;
             }
 
-            persoL.srcX = Math.floor(persoL.countAnim/6) * persoL.larg;
+            persoL.srcX = Math.floor(persoL.countAnim/2) * persoL.larg;
         }else{
             persoL.srcX = 0;
         }
