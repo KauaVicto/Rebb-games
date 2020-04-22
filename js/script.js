@@ -47,7 +47,7 @@
         posY: TAM_PAREDE + 4,
         larg: 24,
         alt: 32,
-        passo: 6,
+        passo: 4,
         srcX: 0,
         srcY: TAM_IMAGE,
         countAnim: 0,
