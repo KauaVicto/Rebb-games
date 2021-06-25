@@ -1,4 +1,3 @@
 # Rebb-games
-Meus jogos
-git remote add upstream [rebbd.github.io/rebb-games/]
+Meus jogos [kauaVicto.github.io/rebb-games/]
 
